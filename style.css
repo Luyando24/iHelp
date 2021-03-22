@@ -70,3 +70,7 @@
 .navbar-toggler-icon{
   color: #282828;
 }
+.ban{
+  background-image: url(Images/happy.jpeg);
+  width: 100%;
+}
