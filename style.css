@@ -66,3 +66,6 @@
 .btn:hover{
   background: #00B0FF;
 }
+.navbar-toggler{
+  color: #282828;
+}
